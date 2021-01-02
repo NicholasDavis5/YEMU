@@ -8,6 +8,7 @@ namespace YAS
 {
     class Assembler
     {
+        //Cool!
         public Assembler()
         {
             InitializeAssembler();
